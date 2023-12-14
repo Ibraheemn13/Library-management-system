@@ -1,0 +1,23 @@
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\bin\Debug\net5.0-windows\tester c-sharp.exe
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\bin\Debug\net5.0-windows\tester c-sharp.deps.json
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\bin\Debug\net5.0-windows\tester c-sharp.runtimeconfig.json
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\bin\Debug\net5.0-windows\tester c-sharp.runtimeconfig.dev.json
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\bin\Debug\net5.0-windows\tester c-sharp.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\bin\Debug\net5.0-windows\ref\tester c-sharp.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\bin\Debug\net5.0-windows\tester c-sharp.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.csproj.AssemblyReference.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester_c_sharp.Form1.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.csproj.GenerateResource.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.AssemblyInfoInputs.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.AssemblyInfo.cs
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\ref\tester c-sharp.dll
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.pdb
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester c-sharp.genruntimeconfig.cache
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester_c_sharp.Properties.Resources.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester_c_sharp.ADD_book.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester_c_sharp.Retrieve.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester_c_sharp.Search.resources
+C:\Users\zaina\Documents\Visual Studio by IBEM\FOUR by FOUR\MINI PROJECT\TESTER\tester c-sharp\obj\Debug\net5.0-windows\tester_c_sharp.Form2.resources
